@@ -192,6 +192,19 @@ OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.15069944 4.70616197 2545
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.15069603 4.70700699 2545.6917 120.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.15028292 4.70673322 2545.8311 288.0 0.0 -0.0
 
-OBJECT_SHARED Objects/e050n20/e055n25/OMDB-tower.xml -74.15153027 4.70537336 2527.0434 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EGCC-manInt_60m-tower.ac -74.15153027 4.70537336 2557.0434 0.0 0.0 -0.0
+
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 15.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 30.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 45.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 60.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 75.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 90.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 105.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 120.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 135.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 150.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 165.0 0.0 -0.0
 
 
