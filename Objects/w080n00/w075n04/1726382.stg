@@ -1,7 +1,3 @@
-OBJECT_SHARED Models/Commercial/Brasilia-generic.xml -74.13913282 4.69282313 2514.3991 52.9 0.0 -0.0
-OBJECT_SHARED Models/Commercial/Brasilia-generic.xml -74.13971203 4.69326073 2514.3693 53.0 0.0 -0.0
-OBJECT_SHARED Models/Commercial/Brasilia-generic.xml -74.14036833 4.69375437 2514.3438 53.2 0.0 -0.0
-OBJECT_SHARED Models/Commercial/Brasilia-generic.xml -74.14083710 4.69410603 2514.3552 53.1 0.0 -0.0
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml -74.14644767 4.69759966 2421.0663 51.9 -0.3 -0.0
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml -74.14601981 4.69726381 2421.5371 52.0 0.0 -0.0
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml -74.14558998 4.69692675 2421.4415 52.0 0.0 -0.0
@@ -33,11 +29,9 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml -74.1
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml -74.14204760 4.69975386 2429.5557 267.3 0.3 -0.0
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml -74.14161173 4.69973964 2429.7300 267.3 0.3 -0.0
 OBJECT_SHARED Models/Airport/ebgb_building_ref_004.ac -74.15152840 4.70536467 2548.5171 223.3 0.3 -0.0
-OBJECT_SHARED Models/AirBase/klsv-thunderbirds-hangar.xml -74.14807310 4.70228292 2546.8552 142.3 -0.3 -0.0
+
 OBJECT_SHARED Models/AirBase/klsv-long-ext-stores-hangar.xml -74.14825202 4.70179642 2546.8394 142.6 -0.3 -0.0
 OBJECT_SHARED Models/AirBase/klsv-long-ext-stores-hangar.xml -74.14838255 4.70189661 2546.8265 142.6 -0.3 -0.0
-OBJECT_SHARED Models/AirBase/klsv-thunderbirds-hangar.xml -74.14865932 4.70152504 2546.8390 142.6 -0.3 -0.0
-OBJECT_SHARED Models/AirBase/klsv-thunderbirds-hangar.xml -74.14889712 4.70120801 2546.8762 142.6 -0.3 -0.0
 OBJECT_SHARED Models/Aircraft/F-15-lowpoly.xml -74.14833079 4.70139193 2548.1785 234.6 -0.3 -0.0
 OBJECT_SHARED Models/Aircraft/F-15-lowpoly.xml -74.14840969 4.70127961 2548.3101 234.6 -0.6 -0.0
 OBJECT_SHARED Models/Aircraft/H-60.xml -74.14853325 4.70100735 2550.0858 234.6 -0.6 -0.0
@@ -84,21 +78,7 @@ OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14173457 4.69992311 2547
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14133110 4.69990507 2547.1789 11.3 0.3 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14658378 4.69792431 2547.1266 59.3 0.3 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14678769 4.69766411 2547.1371 155.3 0.3 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml -74.14125062 4.69418940 2546.7493 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml -74.14087575 4.69387549 2546.7138 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml -74.14035377 4.69346495 2546.6783 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml -74.13981627 4.69306487 2546.6497 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml -74.13924269 4.69265539 2546.6086 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/Cobus_3000.xml -74.14139979 4.69412605 2546.7605 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/Cobus_3000.xml -74.14146238 4.69407185 2546.7647 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/Cobus_3000.xml -74.14149702 4.69400982 2546.7664 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/Cobus_3000.xml -74.14153193 4.69397035 2546.7687 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/Cobus_3000.xml -74.14155603 4.69392764 2546.7716 53.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14124937 4.69429757 2546.7514 191.3 0.3 -0.0
-OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14078488 4.69394595 2546.7071 191.3 0.3 -0.0
-OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14025749 4.69354657 2546.6676 191.3 0.3 -0.0
-OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13968608 4.69312071 2546.6349 191.3 0.3 -0.0
-OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13916778 4.69272314 2546.5974 191.3 0.3 -0.0
+
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14856006 4.70120156 2546.8902 283.3 0.3 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14879357 4.70091189 2546.9000 283.3 0.3 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14833731 4.70151746 2546.8778 283.3 0.3 -0.0
@@ -108,6 +88,7 @@ OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14813092 4.70259256 2546
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14870206 4.70336873 2546.6401 291.3 0.3 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14847754 4.70368693 2546.6333 291.3 0.3 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14826721 4.70397558 2546.6299 291.3 0.3 -0.0
+
 OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8.ac -74.14861572 4.70362283 2546.6281 231.3 0.3 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8.ac -74.14857262 4.70367021 2546.6216 231.3 0.3 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8.ac -74.14850862 4.70376131 2546.6197 231.3 0.3 -0.0
@@ -120,16 +101,20 @@ OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -74.14138715 4.69988454 2
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -74.14105791 4.69967107 2547.1629 147.6 -0.4 -0.0
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -74.14058242 4.69927749 2547.1201 147.6 -0.4 -0.0
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -74.14009781 4.69886788 2547.0541 147.6 -0.4 -0.0
+
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14004292 4.69882928 2547.0450 27.6 -0.4 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14052745 4.69924291 2547.1052 27.6 -0.4 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14103191 4.69965772 2547.1534 27.6 -0.4 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14012317 4.69868726 2547.7303 267.6 -0.4 -0.0
+
 OBJECT_SHARED Models/AirBase/klsv-firestation-1.xml -74.13635062 4.69582761 2547.5512 232.9 0.1 -0.0
+
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13593469 4.69568246 2546.5420 0.9 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13607858 4.69578253 2546.5565 0.9 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13622314 4.69588898 2546.5724 0.9 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13650558 4.69611174 2546.6039 0.9 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13635853 4.69600518 2546.5877 0.9 0.1 -0.0
+
 OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8.ac -74.13613845 4.69575815 2547.4039 323.9 0.1 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8.ac -74.13617757 4.69578568 2547.4272 323.9 0.1 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8.ac -74.13623492 4.69581168 2547.3026 323.9 0.1 -0.0
@@ -144,6 +129,7 @@ OBJECT_SHARED Models/Airport/Vehicle/EDXW_Cateringtruck4000Level_blank.ac -74.13
 OBJECT_SHARED Models/Airport/Vehicle/EDXW_Cateringtruck4000Level_blank.ac -74.13964809 4.69869933 2547.0212 316.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/EDXW_Cateringtruck4000Level_blank.ac -74.13960787 4.69865000 2547.0121 316.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/EDXW_Cateringtruck4000Level_blank.ac -74.13957691 4.69861581 2547.0039 316.4 0.1 -0.0
+
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13991762 4.69873573 2547.0364 316.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13984067 4.69866671 2547.0261 316.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13976168 4.69859688 2547.0157 316.4 0.1 -0.0
@@ -152,6 +138,7 @@ OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13961181 4.69846701 2546
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13952778 4.69839748 2546.9861 316.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13945881 4.69834531 2546.9782 316.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13938044 4.69827602 2546.9670 316.4 0.1 -0.0
+
 OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -74.13951057 4.69853962 2547.0120 52.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -74.13954408 4.69856305 2547.0083 52.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -74.13947822 4.69852036 2546.9998 52.4 0.1 -0.0
@@ -159,11 +146,7 @@ OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -74.13944718 4.69850190 25
 OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -74.13941647 4.69848034 2546.9947 52.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -74.13938590 4.69845890 2546.9901 52.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -74.13936270 4.69843746 2546.9871 52.4 0.1 -0.0
-OBJECT_SHARED Models/AirBase/klsv-thunderbirds-hangar.xml -74.13410358 4.69361860 2546.4105 52.4 0.1 -0.0
-OBJECT_SHARED Models/AirBase/klsv-thunderbirds-hangar.xml -74.13374511 4.69333963 2546.4156 52.4 0.1 -0.0
-OBJECT_SHARED Models/AirBase/klsv-thunderbirds-hangar.xml -74.13339368 4.69306224 2546.4324 52.4 0.1 -0.0
-OBJECT_SHARED Models/AirBase/klsv-thunderbirds-hangar.xml -74.13307859 4.69282084 2546.4460 52.4 0.1 -0.0
-OBJECT_SHARED Models/AirBase/klsv-thunderbirds-hangar.xml -74.13275984 4.69257207 2546.4681 52.4 0.1 -0.0
+
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13409707 4.69395070 2546.4121 28.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13380791 4.69371839 2546.4137 28.4 0.1 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.13375303 4.69366114 2546.4145 28.4 0.1 -0.0
@@ -205,3 +188,56 @@ OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2
 OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 135.0 0.0 -0.0
 OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 150.0 0.0 -0.0
 OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml -74.15218891 4.70577896 2507.6986 165.0 0.0 -0.0
+
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.14174599 4.69305301 2546.8234 53.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.14109880 4.69256432 2546.7905 53.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.14045171 4.69207608 2546.7639 53.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.13991438 4.69166993 2546.7275 53.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.14174599 4.69305301 2550.9346 53.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.14109880 4.69256432 2550.9346 53.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.14045171 4.69207608 2550.9346 53.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.13991438 4.69166993 2550.9346 53.0 0.0 -0.0
+
+OBJECT_SHARED Models/Airport/ramp1.xml -74.14214876 4.69291864 2546.8958 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/ramp1.xml -74.14184590 4.69268717 2546.8918 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/ramp1.xml -74.14153748 4.69245867 2546.8732 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/ramp1.xml -74.14124224 4.69223104 2546.8490 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/ramp1.xml -74.14092542 4.69199465 2546.8355 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/ramp1.xml -74.14061853 4.69176260 2546.8233 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/ramp1.xml -74.14031261 4.69154185 2546.8106 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14187934 4.69296256 2546.8323 205.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14125639 4.69250835 2546.7858 201.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14064161 4.69205566 2546.7615 197.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml -74.14003016 4.69159327 2546.7294 193.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/ramp1.xml -74.14000544 4.69131122 2546.8039 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/caisses1.xml -74.14164453 4.69264616 2546.8121 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/caisses3.xml -74.14189627 4.69299228 2546.8500 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/caisses_services.xml -74.14130951 4.69244281 2546.8230 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/caisses1.xml -74.14073108 4.69193311 2546.7697 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/caisses3.xml -74.14096786 4.69228320 2546.7765 33.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/caisses1.xml -74.14011279 4.69147901 2546.7379 53.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/caisses3.xml -74.14033525 4.69185005 2546.7577 33.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/caisses_services.xml -74.13974819 4.69123623 2546.7515 145.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/fuelfarm1a.ac -74.14193486 4.69378298 2546.3679 142.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/fuelfarm1b.ac -74.14198300 4.69374388 2548.0180 144.2 0.0 -0.0
+
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.14230430 4.69362536 2539.6723 323.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -74.14214826 4.69350983 2539.6359 323.7 0.0 -0.0
+
+OBJECT_SHARED Models/AirBase/small-hangars-sand-2pces-Dopen.ac -74.14869483 4.70130271 2546.9423 142.4 0.0 -0.0
+OBJECT_SHARED Models/AirBase/small-hangar-simple-red.ac -74.14799298 4.70222288 2546.9018 142.4 0.0 -0.0
+
+OBJECT_SHARED Models/AirBase/small-hangars-sand-2pces-B.ac -74.13283751 4.69278331 2546.4583 232.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/small-hangars-sand-2pces-B.ac -74.13300496 4.69256787 2546.4502 232.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/small-hangars-sand-2pces-B.ac -74.13350228 4.69329649 2546.4296 232.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/small-hangars-sand-2pces-B.ac -74.13366839 4.69308539 2546.4366 232.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/small-hangar-simple-red.ac -74.13405097 4.69370794 2546.4146 232.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/small-hangar-simple-red.ac -74.13421456 4.69348550 2546.4072 232.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/egkk_carpark_surf.xml -74.13925561 4.69263042 2546.6221 323.2 0.0 -0.0
+OBJECT_SHARED Models/Transport/egkk_carpark_surf.xml -74.13997680 4.69317515 2546.6297 323.2 0.0 -0.0
+OBJECT_SHARED Models/Transport/egkk_carpark_surf.xml -74.14069691 4.69371973 2546.6689 323.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/big_hangMelun.ac -74.15004495 4.70876151 2545.4822 142.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/big_hangMelun.ac -74.15115465 4.70962000 2545.0211 142.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/big_hangMelun.ac -74.15211433 4.71034745 2544.6659 142.8 0.0 -0.0
+
+
